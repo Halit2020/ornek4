@@ -4,7 +4,10 @@ public class test {
     }
     public static void yeniMetod()
     {
-        System.out.println("yeni metodum hazir");
         System.out.println("sepete ekle kisimlari buralar");
+    }
+    private static void SepettenSil()
+    {
+        System.out.println("sepetten sil bolumu bitti");
     }
 }
